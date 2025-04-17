@@ -1,0 +1,28 @@
+# 🔧 PyCharm
+.idea/
+**/.idea/
+*.iml
+
+# 🧪 Python (раптом юзаєш)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 🖥️ Ubuntu/Linux системні та сміттєві файли
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 📄 Оброблені субтитри
+clean_*.txt
+
+# 🎬 Вихідні .vtt, якщо вони тимчасові
+*.vtt
